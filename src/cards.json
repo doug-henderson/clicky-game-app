@@ -1,0 +1,74 @@
+[
+    {
+    "id": 1,
+    "name": "Bart",
+    "image": "./assets/images/bart.png",
+    "count": 0
+    },
+    {
+    "id": 2,
+    "name": "Duffman",
+    "image": "./assets/images/duffman.png",
+    "count": 0
+    },
+    {
+    "id": 3,
+    "name": "Ned",
+    "image": "./assets/images/flanders.png",
+    "count": 0
+    },
+    {
+    "id": 4,
+    "name": "Homer",
+    "image": "./assets/images/homer.png",
+    "count": 0
+    },
+    {
+    "id": 5,
+    "name": "Lisa",
+    "image": "./assets/images/lisa.png",
+    "count": 0
+    },
+    {
+    "id": 6,
+    "name": "Maggie",
+    "image": "./assets/images/maggie.png",
+    "count": 0
+    },
+    {
+    "id": 7,
+    "name": "Marge",
+    "image": "./assets/images/marge.png",
+    "count": 0
+    },
+    {
+    "id": 8,
+    "name": "Milhouse",
+    "image": "./assets/images/milhouse.png",
+    "count": 0
+    },
+    {
+    "id": 9,
+    "name": "Moe",
+    "image": "./assets/images/moe.png",
+    "count": 0
+    },
+    {
+    "id": 10,
+    "name": "Mr. Burns",
+    "image": "./assets/images/mrburns.png",
+    "count": 0
+    },
+    {
+    "id": 11,
+    "name": "Ralph",
+    "image": "./assets/images/ralph.png",
+    "count": 0
+    },
+    {
+    "id": 12,
+    "name": "Grandpa",
+    "image": "./assets/images/grandpa.png",
+    "count": 0
+    }
+    ]
